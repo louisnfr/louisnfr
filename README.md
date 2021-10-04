@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 🌵
+
+
+![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=louisnfr&theme=dark)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=louisnfr&show_icons=true&theme=dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisnfr&show_icons=true&theme=dark&layout=compact&hide_title=true)]
 
 <!--
 **louisnfr/louisnfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
