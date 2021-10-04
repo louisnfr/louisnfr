@@ -1,7 +1,5 @@
 ### Hi there 🌵
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=louisnfr)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=louisnfr&theme=dark)
 
 <!--
