@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louisnfr&label=Profile%20views&color=0e75b6&style=flat" alt="louisnfr" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisnfr&label=Profile%20views&color=0e75b6&style=flat" alt="louisnfr" /> </p>
 
 <h1 align="center">Hi 👋, I'm louis raffin</h1>
 <h3 align="center">I'm a student at 42 Paris.</h3><br>
@@ -30,3 +30,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/louisnfr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="louisnfr" /></a></p><br><br>
+ -->
