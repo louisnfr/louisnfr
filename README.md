@@ -1,6 +1,6 @@
 ### hi there
 
-##### currently working on [exam rank 04](https://github.com/louisnfr/exam04)
+##### currently working on [net practice](https://github.com/louisnfr/netpractice)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisnfr&label=Profile%20views&color=0e75b6&style=flat" alt="louisnfr" /> </p>
 
