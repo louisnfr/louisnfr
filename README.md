@@ -1,6 +1,6 @@
 ### hi there
 
-##### currently working on [cub3D](https://github.com/louisnfr/cube3d)
+##### currently working on [cub3D](https://github.com/louisnfr/cub3d)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisnfr&label=Profile%20views&color=0e75b6&style=flat" alt="louisnfr" /> </p>
 
